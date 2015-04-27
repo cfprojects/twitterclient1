@@ -1,0 +1,40 @@
+8
+
+dir
+4
+http://svn.riaforge.org/twitterclient/trunk
+http://svn.riaforge.org/twitterclient
+
+
+
+2008-06-22T16:37:48.921875Z
+4
+esprehn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+287c6767-3d55-8542-91cd-5b4abda9b9c9
+
+TwitterClient.cfc
+file
+5
+
+
+
+2008-08-04T00:29:38.000000Z
+f6dab9244dd2f28a0db1f3c8f357c2ee
+2008-08-04T00:16:17.718750Z
+5
+esprehn
+
